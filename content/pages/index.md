@@ -91,7 +91,7 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           url: /images/person-placeholder-light.png
