@@ -251,7 +251,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: ''
     badge:
       label: Contact Us
