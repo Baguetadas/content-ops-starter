@@ -38,11 +38,7 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
+  - subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
