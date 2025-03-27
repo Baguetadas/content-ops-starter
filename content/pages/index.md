@@ -91,7 +91,7 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: ''
         text: ''
         image:
           url: /images/person-placeholder-light.png
