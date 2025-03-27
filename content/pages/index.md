@@ -19,7 +19,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: ''
         url: /
         icon: arrowRight
         iconPosition: right
