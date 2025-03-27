@@ -91,7 +91,7 @@ sections:
     items:
       - title: ''
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           altText: Maria Walters
