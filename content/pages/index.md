@@ -21,12 +21,6 @@ sections:
     actions:
       - label: ''
         url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: ''
-        url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
