@@ -90,7 +90,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: ''
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: ''
         text: ''
         image:
