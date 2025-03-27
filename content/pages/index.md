@@ -89,9 +89,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+      - title: ''
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
